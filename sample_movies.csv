@@ -1,0 +1,4 @@
+movieId,title,cast,crew
+1,Toy Story (1995),"[{""name"": ""Tom Hanks""}, {""name"": ""Tim Allen""}, {""name"": ""Don Rickles""}]","[{""job"": ""Director"", ""name"": ""John Lasseter""}]"
+2,Jumanji (1995),"[{""name"": ""Robin Williams""}, {""name"": ""Kirsten Dunst""}, {""name"": ""Bradley Pierce""}]","[{""job"": ""Director"", ""name"": ""Joe Johnston""}]"
+3,Heat (1995),"[{""name"": ""Al Pacino""}, {""name"": ""Robert De Niro""}, {""name"": ""Val Kilmer""}]","[{""job"": ""Director"", ""name"": ""Michael Mann""}]"
